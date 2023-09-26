@@ -1,1 +1,1 @@
-# KMeans_Hadoop_Implementation
+# KMeans Hadoop Implementation
